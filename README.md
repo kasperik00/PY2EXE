@@ -1,4 +1,4 @@
-# Build Script Instructions
+# PY2EXE Instructions
 
 This script automates the process of converting a Python script into a standalone executable using PyInstaller.
 
