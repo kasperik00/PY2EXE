@@ -16,7 +16,7 @@ This script automates the process of converting a Python script into a standalon
 
 ## How to Use
 
-1. Save this build script (e.g., `build_script.py`) in the same directory as your Python script.
+1. Save this build script (e.g., `PY2EXE.py`) in the same directory as your Python script.
 2. Open the Command Prompt (cmd).
 3. Navigate to the directory containing the script:
    ```bash
@@ -30,7 +30,7 @@ This script automates the process of converting a Python script into a standalon
 
 ### Example Execution
 ```bash
-C:\path\to\scripts> python build_script.py
+C:\path\to\scripts> python PY2EXE.py
 Enter the name of the python script to build into an exe: example.py
 Executable can be found under example/dist/example.exe
 ```
